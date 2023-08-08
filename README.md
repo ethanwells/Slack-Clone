@@ -2,12 +2,13 @@
 
 Welcome to the SLACK 2.0 repository! This project aims to build a more efficient and user-friendly version of the popular messaging app SLACK using REACT.JS, along with REDUX for state management, Styled Components for beautiful, modular styling, and Firebase Hooks for real-time database interaction.
 
-![Slack 2.0](path/to/image.jpg)
+![Slack 2.0](images/slack-logo.jpg)
 
 ## Features
 - Real-time messaging
 - Channels and Direct Messages
 - User Authentication
+
 - And more!
 
 ## Technologies Used
