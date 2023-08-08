@@ -7,10 +7,7 @@ Welcome to the SLACK 2.0 repository! This project aims to build a more efficient
 ## Features
 - Real-time messaging
 - Channels and Direct Messages
-- File Uploads
-- Notification system
 - User Authentication
-- Dark Mode
 - And more!
 
 ## Technologies Used
