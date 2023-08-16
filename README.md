@@ -27,4 +27,4 @@ You'll need the following installed on your machine:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/slack-clone.git
+git clone https://github.com/ethanwells/Slack-Clone.git
