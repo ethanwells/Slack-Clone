@@ -1,6 +1,6 @@
-# SLACK 2.0 with REACT.JS!
+# SLACK Clone with REACT.JS!
 
-Welcome to the SLACK 2.0 repository! This project aims to build a more efficient and user-friendly version of the popular messaging app SLACK using REACT.JS, along with REDUX for state management, Styled Components for beautiful, modular styling, and Firebase Hooks for real-time database interaction.
+Welcome to the SLACK Clone repository! This project aims to build a more efficient and user-friendly version of the popular messaging app SLACK using REACT.JS, along with REDUX for state management, Styled Components for beautiful, modular styling, and Firebase Hooks for real-time database interaction.
 
 ![Slack 2.0](images/slack-logo.jpeg)
 
@@ -27,4 +27,4 @@ You'll need the following installed on your machine:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/slack-2.0.git
+git clone https://github.com/yourusername/slack-clone.git
